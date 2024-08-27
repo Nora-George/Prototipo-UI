@@ -1,0 +1,46 @@
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\bin\Debug\netstandard2.1\Recorridos.deps.json
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\bin\Debug\netstandard2.1\Recorridos.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\bin\Debug\netstandard2.1\Recorridos.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\bin\Debug\netstandard2.1\HTTPupt.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\bin\Debug\netstandard2.1\HTTPupt.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\bin\Debug\netstandard2.1\Newtonsoft.Json.xml
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\App.xaml.g.cs
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\InicioSesion.xaml.g.cs
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\RegistrarRecorrido.xaml.g.cs
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\Recorridos.AssemblyInfoInputs.cache
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\Recorridos.AssemblyInfo.cs
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\Recorridos.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\XamlC.stamp
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\Recorridos.csproj.CopyComplete
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\Recorridos.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\ref\Recorridos.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\Recorridos.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\estilos.css.g.cs
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\Recorridos.csproj.AssemblyReference.cache
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\Recorridos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\refint\Recorridos.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\Recorridos.csproj.AssemblyReference.cache
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\Recorridos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\InicioSesion.xaml.g.cs
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\RegistrarRecorrido.xaml.g.cs
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\estilos.css.g.cs
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\Recorridos.AssemblyInfoInputs.cache
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\Recorridos.AssemblyInfo.cs
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\Recorridos.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\Recorridos.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\refint\Recorridos.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\Recorridos.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\bin\Debug\netstandard2.1\Recorridos.deps.json
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\bin\Debug\netstandard2.1\Recorridos.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\bin\Debug\netstandard2.1\Recorridos.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\bin\Debug\netstandard2.1\HTTPupt.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\Recorridos.csproj.CopyComplete
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\ref\Recorridos.dll
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\Recorridos.dll
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\refint\Recorridos.dll
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos\obj\Debug\netstandard2.1\Recorridos.pdb

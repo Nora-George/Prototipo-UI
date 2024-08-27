@@ -1,0 +1,58 @@
+﻿button {
+    margin-left: 90;
+    margin-right: 90;
+    border-color: dodgerblue;
+    border-width: 3;
+    color: blue;
+    background-color: cornflowerblue;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.entry {
+    margin-left: 50;
+    margin-right: 50;
+    border-color: black;
+    border-bottom: 3;
+    color: black;
+    background-color: aliceblue;
+}
+
+.lblInicioSesion{
+    margin-top: 100;
+    margin-bottom: 20;
+    font-style: bold;
+    font-size: large;
+    text-align: center;
+}
+
+.picker{
+    font-style: italic;
+    font-size: small;
+    margin-left: 50;
+    margin-right: 50;
+}
+
+.lblTexto {
+    font-style: bold;
+    font-size: small;
+    margin-left: 20;
+}
+
+.btnAceptar {
+    margin-left: 90;
+    margin-right: 90;
+    border-color: darkseagreen;
+    border-width: 3;
+    color: black;
+    background-color: limegreen;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.edit {
+    font-style: italic;
+    font-size: small;
+    margin-left: 50;
+    margin-right: 50;
+}

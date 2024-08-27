@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Recorridos.InicioSesion" BackgroundColor="Blue">
+
+    <ContentPage.Resources>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <ScrollView>
+            <Frame BackgroundColor="White" BorderColor="Black" CornerRadius="20" Margin="20, 160, 20, 350">
+                <StackLayout BackgroundColor="White" Margin="20,25">
+                    <Label Text="Inicio de sesion" FontSize="Title" HorizontalTextAlignment="Center" TextColor="Black" StyleClass="lblInicioSesion"/>
+                    <Entry x:Name="txtCorreoElectronico" Placeholder="Correo electrónico" StyleClass="entry"/>
+                    <Entry x:Name="txtContraseña" Placeholder="Contraseña" StyleClass="entry"/>
+                    <Button x:Name="btnIniciarSesion" Text="Iniciar sesión" Clicked="btnIniciarSesion_Clicked"/>
+                </StackLayout>
+            </Frame>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

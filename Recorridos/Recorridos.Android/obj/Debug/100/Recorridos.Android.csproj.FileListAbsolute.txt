@@ -1,0 +1,1183 @@
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\bin\Debug\Recorridos.Android.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\bin\Debug\Recorridos.Android.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\bin\Debug\com.companyname.recorridos.apk
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\bin\Debug\com.companyname.recorridos.aab
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\bin\Debug\com.companyname.recorridos-Signed.aab
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\bin\Debug\com.companyname.recorridos-Signed.apk
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\bin\Debug\com.companyname.recorridos-Signed.apk.idsig
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\bin\Debug\Recorridos.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\bin\Debug\HTTPupt.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\bin\Debug\Newtonsoft.Json.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\bin\Debug\Recorridos.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\bin\Debug\HTTPupt.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\bin\Debug\Newtonsoft.Json.xml
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\build.props
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\adb.props
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\Recorridos.Android.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\stamp\_BuildLibraryImportsCache.stamp
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res.flag
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\R.txt
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\R.cs.flag
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\Recorridos.Android.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\XamlC.stamp
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\Recorridos.Android.csproj.CopyComplete
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\Recorridos.Android.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\Recorridos.Android.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\bin\com.companyname.recorridos.apk
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\bin\base.zip
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\bin\com.companyname.recorridos.aab
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\bin\com.companyname.recorridos.apks
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\layout\tabbar.xml
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\layout\toolbar.xml
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\values\styles.xml
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\values\colors.xml
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-anydpi-v26\icon.xml
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-anydpi-v26\icon_round.xml
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-hdpi\icon.png
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-hdpi\launcher_foreground.png
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-mdpi\icon.png
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-mdpi\launcher_foreground.png
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-xhdpi\icon.png
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-xhdpi\launcher_foreground.png
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-xxhdpi\icon.png
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-xxhdpi\launcher_foreground.png
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-xxxhdpi\icon.png
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\uploadflags.txt
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\resolvedassemblies.hash
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\FormsViewGroup.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\FormsViewGroup.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\HTTPupt.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\HTTPupt.dll.mdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Java.Interop.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Data.Sqlite.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.Caching.Memory.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.DependencyModel.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.Logging.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.Options.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.Primitives.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Mono.Android.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Mono.Android.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Mono.Security.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Mono.Security.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\mscorlib.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\mscorlib.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\netstandard.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Newtonsoft.Json.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Recorridos.Android.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Recorridos.Android.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Recorridos.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Recorridos.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\SQLitePCLRaw.batteries_v2.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\SQLitePCLRaw.core.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.AppContext.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Buffers.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Collections.Concurrent.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Collections.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Collections.Immutable.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.ComponentModel.Annotations.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.ComponentModel.Composition.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.ComponentModel.Composition.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.ComponentModel.DataAnnotations.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.ComponentModel.DataAnnotations.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Core.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Core.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Data.DataSetExtensions.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Data.DataSetExtensions.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Data.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Data.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Diagnostics.Debug.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Diagnostics.Tracing.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Drawing.Common.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Drawing.Common.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.IO.Compression.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.IO.Compression.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Memory.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Net.Http.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Net.Http.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Numerics.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Numerics.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Numerics.Vectors.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Numerics.Vectors.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Reflection.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Resources.ResourceManager.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Runtime.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Runtime.Extensions.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Runtime.InteropServices.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Runtime.Serialization.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Runtime.Serialization.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.ServiceModel.Internals.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.ServiceModel.Internals.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Text.Encodings.Web.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Text.Json.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Threading.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Threading.Tasks.Extensions.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Transactions.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Transactions.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Web.Services.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Web.Services.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Xml.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Xml.Linq.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Xml.Linq.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Xml.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Activity.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Activity.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Annotation.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Annotation.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Browser.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Browser.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CardView.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CardView.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Collection.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Collection.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Core.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Core.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CustomView.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CustomView.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DocumentFile.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Fragment.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Fragment.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Interpolator.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Interpolator.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Loader.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Loader.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Media.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Media.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.MultiDex.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.MultiDex.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Print.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Print.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.RecyclerView.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SavedState.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SavedState.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Transition.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Transition.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Essentials.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Essentials.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Forms.Core.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Forms.Core.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Forms.Platform.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Forms.Xaml.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Forms.Xaml.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.dll
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.pdb
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\typemaps.arm64-v8a.s
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\typemaps.armeabi-v7a.s
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\typemaps.x86.s
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\typemaps.x86_64.s
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\typemaps.armeabi-v7a-shared.inc
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\typemaps.shared.inc
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\AndroidManifest.xml
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\AndroidManifest.xml
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\__environment__.txt
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\MonoRuntimeProvider.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\machine.config
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\bin\mono.android.jar
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\static.flag
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\buildid.txt
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\environment.arm64-v8a.s
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\environment.armeabi-v7a.s
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\environment.x86.s
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\environment.x86_64.s
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\appcompat\R.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\appcompat\resources\R.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\browser\R.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\cardview\R.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\coordinatorlayout\R.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\core\R.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\media\R.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\recyclerview\R.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\transition\R.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\com\google\android\material\R.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ContainerView.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageContainer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\FrameRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\ImageRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\LabelRenderer.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64f89a125883b00e9b\MainActivity.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\android\app\ApplicationRegistration.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\MonoPackageManager_Resources.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\xamarin\essentials\fileProvider.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\bin\packaged_resources
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\com\companyname\recorridos\R.java
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\compressed_assemblies.arm64-v8a.s
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\compressed_assemblies.armeabi-v7a.s
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\compressed_assemblies.x86.s
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\compressed_assemblies.x86_64.s
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\typemaps.arm64-v8a.o
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\typemaps.armeabi-v7a.o
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\typemaps.x86.o
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\typemaps.x86_64.o
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\environment.arm64-v8a.o
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\environment.armeabi-v7a.o
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\environment.x86.o
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\environment.x86_64.o
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\compressed_assemblies.arm64-v8a.o
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\compressed_assemblies.armeabi-v7a.o
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\compressed_assemblies.x86.o
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\compressed_assemblies.x86_64.o
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\app_shared_libraries\x86\libxamarin-app.so
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\app_shared_libraries\x86_64\libxamarin-app.so
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\bin\classes.dex
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\stamp\_CleanIntermediateIfNeeded.stamp
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\stamp\_CompileToDalvik.stamp
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\stamp\_ConvertCustomView.stamp
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\stamp\_ConvertResourcesCases.stamp
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\stamp\_GenerateJavaStubs.stamp
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\stamp\_GeneratePackageManagerJava.stamp
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\stamp\_ResolveLibraryProjectImports.stamp
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\42\jl\files.cache
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\43\jl\files.cache
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\48\jl\files.cache
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\61\jl\files.cache
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\64\jl\files.cache
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\71\jl\files.cache
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\74\jl\files.cache
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\75\jl\files.cache
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\76\jl\files.cache
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\77\jl\files.cache
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\78\jl\files.cache
+D:\Documentos\Visual Studio 2019\Projects\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\81\jl\files.cache
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\bin\Debug\Recorridos.Android.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\bin\Debug\Recorridos.Android.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\bin\Debug\com.companyname.recorridos.apk
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\bin\Debug\com.companyname.recorridos.aab
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\bin\Debug\com.companyname.recorridos-Signed.aab
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\bin\Debug\com.companyname.recorridos-Signed.apk
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\bin\Debug\com.companyname.recorridos-Signed.apk.idsig
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\bin\Debug\Recorridos.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\bin\Debug\HTTPupt.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\bin\Debug\Recorridos.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\bin\Debug\HTTPupt.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\bin\Debug\HTTPupt.dll.mdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\build.props
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\adb.props
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\Recorridos.Android.csproj.AssemblyReference.cache
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res.flag
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\42\jl\files.cache
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\43\jl\files.cache
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\48\jl\files.cache
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\61\jl\files.cache
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\64\jl\files.cache
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\71\jl\files.cache
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\74\jl\files.cache
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\75\jl\files.cache
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\76\jl\files.cache
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\77\jl\files.cache
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\78\jl\files.cache
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\81\jl\files.cache
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\R.txt
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\R.cs.flag
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\Recorridos.Android.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\XamlC.stamp
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\Recorridos.Android.csproj.CopyComplete
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\Recorridos.Android.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\Recorridos.Android.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\bin\com.companyname.recorridos.apk
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\bin\base.zip
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\bin\com.companyname.recorridos.aab
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\bin\com.companyname.recorridos.apks
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\layout\tabbar.xml
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\layout\toolbar.xml
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\values\styles.xml
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\values\colors.xml
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-anydpi-v26\icon.xml
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-hdpi\icon.png
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-mdpi\icon.png
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-xhdpi\icon.png
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-xxhdpi\icon.png
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-xxxhdpi\icon.png
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\uploadflags.txt
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\resolvedassemblies.hash
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\FormsViewGroup.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\FormsViewGroup.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\HTTPupt.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\HTTPupt.dll.mdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Java.Interop.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Java.Interop.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Data.Sqlite.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.EntityFrameworkCore.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.DependencyModel.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.Logging.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.Options.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Microsoft.Extensions.Primitives.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Mono.Android.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Mono.Android.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Mono.Security.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Mono.Security.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\mscorlib.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\mscorlib.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\netstandard.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Newtonsoft.Json.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Recorridos.Android.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Recorridos.Android.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Recorridos.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Recorridos.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\SQLitePCLRaw.core.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.AppContext.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Buffers.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Collections.Concurrent.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Collections.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Collections.Immutable.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.ComponentModel.Annotations.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.ComponentModel.Composition.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.ComponentModel.DataAnnotations.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.ComponentModel.DataAnnotations.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Core.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Core.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Data.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Data.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Diagnostics.Debug.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Diagnostics.DiagnosticSource.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Diagnostics.Tracing.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Drawing.Common.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Drawing.Common.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.IO.Compression.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.IO.Compression.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Memory.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Net.Http.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Net.Http.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Numerics.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Numerics.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Numerics.Vectors.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Numerics.Vectors.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Reflection.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Resources.ResourceManager.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Runtime.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Runtime.Extensions.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Runtime.InteropServices.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Runtime.Serialization.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Runtime.Serialization.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.ServiceModel.Internals.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Text.Encodings.Web.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Text.Json.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Threading.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Threading.Tasks.Extensions.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Transactions.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Transactions.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Web.Services.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Web.Services.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Xml.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Xml.Linq.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Xml.Linq.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\System.Xml.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Activity.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Activity.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Annotation.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Annotation.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Browser.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Browser.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CardView.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CardView.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Collection.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Collection.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Core.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Core.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CustomView.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CustomView.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DocumentFile.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Fragment.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Fragment.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Interpolator.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Interpolator.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Loader.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Loader.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Media.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Media.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.MultiDex.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.MultiDex.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Print.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Print.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.RecyclerView.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SavedState.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SavedState.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Transition.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Transition.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Essentials.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Essentials.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Forms.Core.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.dll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.pdb
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\typemaps.arm64-v8a.ll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\typemaps.armeabi-v7a.ll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\typemaps.x86.ll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\typemaps.x86_64.ll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\AndroidManifest.xml
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\AndroidManifest.xml
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\__environment__.txt
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\MonoRuntimeProvider.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\assets\machine.config
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\bin\mono.android.jar
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\static.flag
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\buildid.txt
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\environment.arm64-v8a.ll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\environment.armeabi-v7a.ll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\environment.x86.ll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\environment.x86_64.ll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\appcompat\R.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\appcompat\resources\R.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\browser\R.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\cardview\R.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\coordinatorlayout\R.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\core\R.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\media\R.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\recyclerview\R.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\androidx\transition\R.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\com\google\android\material\R.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\crc64f89a125883b00e9b\MainActivity.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\xamarin\essentials\fileProvider.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\bin\packaged_resources
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\src\com\companyname\recorridos\R.java
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\compressed_assemblies.arm64-v8a.ll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\compressed_assemblies.armeabi-v7a.ll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\compressed_assemblies.x86.ll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\compressed_assemblies.x86_64.ll
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\typemaps.arm64-v8a.o
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\typemaps.armeabi-v7a.o
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\typemaps.x86.o
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\typemaps.x86_64.o
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\environment.arm64-v8a.o
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\environment.armeabi-v7a.o
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\environment.x86.o
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\environment.x86_64.o
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\compressed_assemblies.arm64-v8a.o
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\compressed_assemblies.armeabi-v7a.o
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\compressed_assemblies.x86.o
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\compressed_assemblies.x86_64.o
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\jni_remap.arm64-v8a.o
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\jni_remap.armeabi-v7a.o
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\jni_remap.x86.o
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\jni_remap.x86_64.o
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\android\bin\classes.dex
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\stamp\_CompileJava.stamp
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\stamp\_CompileToDalvik.stamp
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\stamp\_ConvertCustomView.stamp
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\stamp\_ConvertResourcesCases.stamp
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\stamp\_GenerateJavaStubs.stamp
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\EQUIPO-23\Desktop\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\bin\Debug\Recorridos.dll
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\bin\Debug\HTTPupt.dll
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\bin\Debug\Recorridos.pdb
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\bin\Debug\HTTPupt.pdb
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\bin\Debug\HTTPupt.dll.mdb
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\build.props
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\adb.props
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\Recorridos.Android.csproj.AssemblyReference.cache
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\res.flag
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\41\jl\files.cache
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\42\jl\files.cache
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\47\jl\files.cache
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\60\jl\files.cache
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\63\jl\files.cache
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\70\jl\files.cache
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\73\jl\files.cache
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\74\jl\files.cache
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\75\jl\files.cache
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\76\jl\files.cache
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\77\jl\files.cache
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\lp\80\jl\files.cache
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\R.txt
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\R.cs.flag
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\Recorridos.Android.csproj.CoreCompileInputs.cache
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\XamlC.stamp
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\Recorridos.Android.csproj.CopyComplete
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\Recorridos.Android.dll
+C:\Users\52553\Desktop\Recorridoss\Recorridos\Recorridos\Recorridos.Android\obj\Debug\100\Recorridos.Android.pdb

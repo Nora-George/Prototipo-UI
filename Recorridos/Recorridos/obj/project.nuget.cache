@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "8bOf7Sr7xKHBcFgyLmrZBGy80lZcQmUqrM5t0WhCyeHz6vap2zcVjMpYlGh/3pFS7u18+Tao27rpBK0nn3yczA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\52553\\Desktop\\Recorridoss\\Recorridos\\Recorridos\\Recorridos\\Recorridos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\52553\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "No se puede resolver 'Microsoft.EntityFrameworkCore.Sqlite (>= 5.0.1)' para '.NETStandard,Version=v2.1'. PackageSourceMapping está habilitado. No se tuvieron en cuenta los siguientes orígenes: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Sqlite",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    }
+  ]
+}

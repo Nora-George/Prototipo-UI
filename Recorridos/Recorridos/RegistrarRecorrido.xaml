@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Recorridos.RegistrarRecorrido" BackgroundColor="AliceBlue">
+    <!--Pages can be added as references or inline-->
+
+    <ContentPage Title="Recorrido">
+        <ScrollView>
+            <Frame BackgroundColor="White" BorderColor="Black" CornerRadius="20" Margin="20, 20, 20, 20" >
+                <StackLayout>
+                    <Label StyleClass="lblTexto" Text="Torre/Amenidad:" />
+                    <Picker x:Name="ddlTorreAmenidad" StyleClass="picker" Title="Seleccione una Torre/Amenidad" SelectedIndexChanged="ddlTorreAmenidad_SelectedIndexChanged"/>
+                    <Label StyleClass="lblTexto" Text="Piso:" />
+                    <Picker x:Name="ddlPiso" StyleClass="picker" Title="Seleccione un piso" SelectedIndexChanged="ddlPiso_SelectedIndexChanged"/>
+                    <Label StyleClass="lblTexto" Text="Concepto:" />
+                    <Picker x:Name="ddlConcepto" StyleClass="picker" Title="Seleccione un concepto" SelectedIndexChanged="ddlConcepto_SelectedIndexChanged"/>
+                    <Label StyleClass="lblTexto" Text="Parte:" />
+                    <Picker x:Name="ddlParte" StyleClass="picker" Title="Seleccione una parte" SelectedIndexChanged="ddlParte_SelectedIndexChanged"/>
+                    <Label StyleClass="lblTexto" Text="El estado es:" />
+                    <Picker x:Name="ddlEstado" StyleClass="picker" Title="Seleccione un estado." SelectedIndexChanged="ddlEstado_SelectedIndexChanged">
+                        <Picker.Items>
+                            <x:String>"Bueno"</x:String>
+                            <x:String>"Regular"</x:String>
+                            <x:String>"Malo"</x:String>
+                        </Picker.Items>
+                    </Picker>
+                    <Label StyleClass="lblTexto" Text="Observaciones:" />
+                    <Editor x:Name="txtObservaciones" StyleClass="edit" Placeholder="Escriba aqui las observaciones si las hay." Keyboard="Text" HeightRequest="100"/>
+                    <Button x:Name="btnAgregar" StyleClass="btnAceptar" BackgroundColor="Green" Text="Agregar" Clicked="btnAgregar_Clicked"/>
+                </StackLayout>
+            </Frame>
+        </ScrollView>
+    </ContentPage>
+    <ContentPage Title="Base de datos">
+        <ScrollView>
+            <StackLayout>
+                <Frame BackgroundColor="White" BorderColor="Black" CornerRadius="20" Margin="20, 160, 20, 35">
+                    <StackLayout Padding="0,0">
+                        <Button x:Name="btnActualizarBD" StyleClass="btnAceptar" Text="Actualizar base de datos" BackgroundColor="Green" Clicked="btnActualizarBD_Clicked"/>
+                    </StackLayout>
+                </Frame>
+                <Frame BackgroundColor="White" BorderColor="Black" CornerRadius="20" Margin="20, 20, 20, 20">
+                    <StackLayout Padding="0,0">
+                        <StackLayout Padding="0,0">
+                            <Button x:Name="btnSincronizar" StyleClass="btnAceptar" Text="" IsEnabled="False" BackgroundColor="Green" Clicked="btnSincronizar_Clicked"/>
+                        </StackLayout>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage>
+    <ContentPage Title="Cambiar contraseña">
+        <ScrollView>
+            <Frame BackgroundColor="White" BorderColor="Black" CornerRadius="20" Margin="20, 150, 20, 300">
+                <StackLayout>
+                    <Entry x:Name="txtContrasena" Placeholder="Ingresar contraseña actual" />
+                    <Entry x:Name="txtNuevaContrasena" Placeholder="Ingresar nueva contraseña " />
+                    <Entry x:Name="txtConfirmarContrasena" Placeholder="Confirmar contraseña" />
+                    <Button  x:Name="btnCambiarContrasena" Text="Aceptar" BackgroundColor="Green" ></Button>
+                </StackLayout>
+            </Frame>
+        </ScrollView>
+    </ContentPage>
+</TabbedPage>
